@@ -1,4 +1,4 @@
-# ggm-wiifi-manager
+# GGM WiiFi Manager
 A Wii homebrew program that allows you to change the Internet Settings without going to the Wii Menu.
 
 Heavily based on [Bazmocs](https://github.com/Bazmoc) [Wii-Network-Config-Editor ](https://github.com/Bazmoc/Wii-Network-Config-Editor/)
