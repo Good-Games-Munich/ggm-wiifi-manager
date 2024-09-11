@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<app version="1">
+		<name>GGM Wiifi Manager</name>
+		<coder>Spike</coder>
+		<version>1.0</version>
+		<release_date>20240911000000</release_date>
+		<short_description>Wii Network Settings Editor</short_description>
+		<long_description>This Wii homebrew program allows you to change your network settings without going to the Wii Menu. 
+Wifi setting files are read from sd:/wifi or usb:/wifi
+
+
+WARNING : This program makes permanent changes to the NAND, use (and/or modify) at your own risks. Please make a NAND Backup before using.
+</long_description>
+	</app>
